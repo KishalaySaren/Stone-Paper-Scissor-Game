@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 50px;
+}
+
+button {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  margin: 10px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
